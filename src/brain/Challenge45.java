@@ -23,6 +23,7 @@ import grid.Location;
  * @author 18lambas
  */
 
+//Has both A* and nodes in this bot
 
 public class Challenge45 extends BotBrain {
 //work on equation to decide to get nearest or get most points farm...

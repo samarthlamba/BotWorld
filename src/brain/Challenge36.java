@@ -24,6 +24,8 @@ import grid.Location;
  *
  * @author 18lambas
  */
+//Has both A* and nodes in this bot
+
 public class Challenge36 extends BotBrain {
 //initiate everything
 
